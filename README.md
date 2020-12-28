@@ -14,3 +14,39 @@
 |_|     \__,_| \___||_| \__,_||_|    \___| \___/ |_| |_| |_|   |_|     \__, | \__||_| |_| \___/ |_| |_|
                                                                        |___/                           
 </pre>
+
+Veja aqui como reconhecer e manipular faces de forma muito simles com a biblioteca ```face_recognition```, usando o reconhecimento facial de última geração da ```dlib```, com aprendizado profundo.
+
+Aqui veremos como uma ferramenta simples de linha de comando ```face_recognition``` para o reconhecimento facial com linha de comando. 
+
+### Bibliotecas
+
+Primeiro, instale a biblioteca **face-recognition**:
+
+```pip install face-recognition```
+
+Obs: Caso ocorra erro ao instalar o **dlib**, faça o seguinte:
+
+1. Instale anaconda
+2. Execute os comandos no *shell*
+
+```conda update conda```
+
+```conda update anaconda```
+
+```create new environment conda create -n env_dlib python=3.6```
+
+```activate enviroment conda activate env_dlib```
+
+```install dlib conda install -c conda-forge dlib```
+
+2. Verifique a instalação via cmd:
+
+```>> python```
+
+```import dlib```
+
+```dlib.__version__```
+
+[Acesso ao notebook](https://github.com/lisaterumi/reconhecimento-facial-python/blob/main/reconhecimento-facial-python.ipynb).
+
