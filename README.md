@@ -17,6 +17,10 @@
 
 Veja aqui como reconhecer e manipular faces de forma muito simles com a biblioteca ```face_recognition```, usando o reconhecimento facial de última geração da ```dlib```, com aprendizado profundo.
 
+![Imagem1](https://github.com/lisaterumi/reconhecimento-facial-python/raw/f2fa00f6514e50f540101a0be2959faeed7826ac/img/nova_imagem.jpg)
+
+![Imagem2](https://github.com/lisaterumi/reconhecimento-facial-python/raw/f2fa00f6514e50f540101a0be2959faeed7826ac/img/nova_imagem2.jpg)
+
 Aqui veremos como uma ferramenta simples de linha de comando ```face_recognition``` para o reconhecimento facial com linha de comando. 
 
 ### Bibliotecas
@@ -40,7 +44,7 @@ Obs: Caso ocorra erro ao instalar o **dlib**, faça o seguinte:
 
 ```install dlib conda install -c conda-forge dlib```
 
-2. Verifique a instalação via cmd:
+3. Verifique a instalação via cmd:
 
 ```>> python```
 
@@ -49,4 +53,5 @@ Obs: Caso ocorra erro ao instalar o **dlib**, faça o seguinte:
 ```dlib.__version__```
 
 [Acesso ao notebook](https://github.com/lisaterumi/reconhecimento-facial-python/blob/main/reconhecimento-facial-python.ipynb).
+
 
