@@ -15,7 +15,7 @@
                                                                        |___/                           
 </pre>
 
-Veja aqui como reconhecer e manipular faces de forma muito simles com a biblioteca ```face_recognition```, usando o reconhecimento facial de última geração da ```dlib```, com aprendizado profundo.
+Veja aqui como reconhecer e manipular faces de forma muito simples com a biblioteca ```face_recognition```, usando o reconhecimento facial de última geração da ```dlib```, com aprendizado profundo.
 
 ![Imagem1](https://github.com/lisaterumi/reconhecimento-facial-python/raw/f2fa00f6514e50f540101a0be2959faeed7826ac/img/nova_imagem.jpg)
 
