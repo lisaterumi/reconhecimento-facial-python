@@ -53,5 +53,7 @@ Obs: Caso ocorra erro ao instalar o **dlib**, faça o seguinte:
 ```dlib.__version__```
 
 [Acesso ao notebook](https://github.com/lisaterumi/reconhecimento-facial-python/blob/main/reconhecimento-facial-python.ipynb).
+ 
+ <a href="https://www.buymeacoffee.com/lisaterumi"><img src="https://github.com/lisaterumi/lisaterumi/blob/main/bymeacoffe_link.png" alt="By me a coffe"/></a>
 
 
